@@ -1,59 +1,50 @@
 {
   "extDescription": {
-    "message": "Displays all your Folding@home contribution stats and earnings for the www.banano.cc team."
+    "message": "显示您在Folding @ home为www.banano.cc团队的所有贡献统计和收入。"
   },
   "findMe": {
-    "message": "Find me!"
+    "message": "寻找"
   },
   "yourUser": {
-    "message": "Your User ID:"
+    "message": "输入用户名："
   },
   "errEmpty": {
-    "message": "Please input User ID."
+    "message": "请输入用户名"
   },
   "errShort": {
-    "message": "User ID must be 7 characters. Please try again."
+    "message": "用户ID必须为7个字符。请再试一遍。"
   },
   "update": {
-    "message": "Update!"
+    "message": "更新！\n"
   },
   "lastUpdate": {
-    "message": "Last update:"
+    "message": "最后更新：\n"
   },
   "banAdr": {
-    "message": "BAN address:"
+    "message": "BAN地址："
   },
   "AccCreated": {
-    "message": "Account created on:"
+    "message": "帐户创建于："
   },
   "banEarned": {
-    "message": "Total BAN earned:"
-  },
-  "activeClients": {
-    "message": "Active clients:"
-  },
-  "within50Days": {
-    "message": "within 50 days:"
-  },
-  "within7Days": {
-    "message": "within 7 days:"
+    "message": "总共赚取的 BAN："
   },
   "lastWU": {
-    "message": "Last Work Unit mined:"
+    "message": "最后开采的单位：\n"
   },
   "totalWU": {
-    "message": "Total Work Units:"
+    "message": "总工作单位："
   },
   "lang": {
-    "message": "English"
+    "message": "英语"
   },
   "extName": {
     "message": "BananoMiner Watch"
   },
   "langCode": {
-    "message": "en"
+    "message": "zh_CN"
   },
   "errNotfound": {
-    "message": "User ID doesn´t exist. Please try again."
+    "message": "用户ID不存在。请再试一遍。"
   }
 }

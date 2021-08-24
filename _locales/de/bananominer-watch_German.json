@@ -1,0 +1,80 @@
+{
+    "extDescription": {
+        "Displays all your Folding@home contribution stats and earnings for the www.banano.cc team.": "Zeigt alle Statistiken und Erlöse aus deinem Beitrag zum www.banano.cc Folding@home Team an."
+    },
+    "findMe": {
+        "Find me!": "Finden!"
+    },
+    "yourUser": {
+        "Your User ID:": "Deine User ID:"
+    },
+    "errEmpty": {
+        "Please input User ID.": "Bitte gib eine User ID ein."
+    },
+    "errShort": {
+        "User ID must be 7 characters.<br>Please try again.": "Die User ID muss 7 Zeichen lang sein."
+    },
+    "update": {
+        "Update!": "Aktualisieren!"
+    },
+    "lastUpdate": {
+        "Last update:": "Zuletzt aktualisiert:"
+    },
+    "banAdr": {
+        "BAN address:": "BAN Adresse:"
+    },
+    "AccCreated": {
+        "Account created on:": "Konto erstellt am:"
+    },
+    "banEarned": {
+        "Total $BAN earned:": "BAN verdient gesamt:"
+    },
+    "lastWU": {
+        "Last Work Unit mined:": "Letzte berechnete Work Unit:"
+    },
+    "totalWU": {
+        "Total Work Units:": "Work Units gesamt:"
+    },
+    "lang": {
+        "English": "Deutsch"
+    },
+    "extName": {
+        "Extension Name": "BananoMiner Watch"
+    },
+    "langCode": {
+        "en": "de"
+    },
+    "errNotfound": {
+        "User ID doesn´t exist. Please try again.": "User ID existiert nicht. Versuche es erneut."
+    },
+    "StoreLongDesc": {
+        "BananoMiner Watch is an extension that shows you all the stats about your contributions to the www.banano.cc team at Folding@home including the amount of $BAN you have already earned using your config from https://bananominer.com/.\nThis is a BANANO community project. Made by Banano Jungle Monkeys for Banano Jungle Monkeys.\n\nIf you would like to know more about the BANANO cryptocurrency, please visit www.banano.cc\n\nCredits\nOur sincere thanks go to everyone in the BANANO community who contributed and supported in the making of this. BAN fam - best fam! 💛\n\nTranslation and Proofreading:\nAhmedDhaif93 for Arabic\nGoose for Chinese\nKryptopia for Danish\nATH for Dutch\nLiberty_Seed and iazid for French\nsebrock for German\nDemetrius for Greek\nSkittish for Hindi\nPramono for Bahasa Indonesia\nLore and macaleon for Italian\nAfrica by Toto for Japanese\nmina_hanem for Farsi\nnknown for Portuguese\npygo for Norwegian\nMidNightSonne and andrecrjr for Brazilian Portuguese\nYaroslavaWise and Nomina for Russian\nKyle London 92 for Serbian\nCristalla for Spanish\nmanpan for Swedish\nTahadorukk | Guns'NRoses for Turkish\nVery cute cat and Tu Hoang for Vietnamese\nbbedward for reminding the jungle to support\n\nGraphic Design support\nOops\n\nKeywords:\nfolding foldingathome folding@home crypto cryptocurrency banano": "BananoMiner Watch ist eine Erweiterung für deinen Browser, die dir alle Statistiken zu Deinem mit Hilfe deiner Konfiguration von https://bananominer.com/ geleisteten Beitrag zum Foldign@Home Team www.banano.cc Team anzeigt. Du kannst sogar die Summe deiner bereits  verdienten BANanos sehen.\n\nDies ist ein BANANO community Projekt. Gemacht von Banano Dschungelaffen für Banano Dschungelaffen.\n\nWenn Du mehr über die BANANO Kryptowährung erfahren möchtest, surfe zu www.banano.cc.\n\nDanksagungen\nUnser aufrichtiger Dank gilt all den Affen im Banano-Dschungel, die zu diesem Projekt beigetragen oder unterstützt haben. BAN fam - best fam! 💛\n\nÜbersetzungen und Korrekturlesen:\nAhmedDhaif93 für Arabisch\nGoose für Chinesisch\nATH für Niederländisch\nLiberty_Seed und iazid für Französisch\nPramono für Bahasa Indonesia\nLore und macaleon für Italienisch\nAfrica by Toto für Japanisch\nmina_hanem für Farsi\nnknown für Portugiesisch\npygo für Norwegisch\nMidNightSonne für Brasilianisches Portugiesisch\nYaroslavaWise für Russisch\nCristalla für Spanisch\nbbedward dafür, dass er den Dschungel um Mithilfe gebeten hat\n\nGrafik Design Unterstützung\nOops\n\nSchlagworte:\nfolding foldingathome folding@home crypto cryptocurrency banano krypto kryptowährung\n"
+    },
+    "hamb_calc": {
+        "PPD-BAN Calculator": "PPD-BAN Rechner"
+    },
+    "acc_status": {
+        "Account Status: active": "Account Status: aktiv"
+    },
+    "cert_points": {
+        "Certificate (Points)": "Zertifikat (Punkte)"
+    },
+    "cert_wus": {
+        "Certificate (WUs)": "Zertifikat (WUs)"
+    },
+    "activeClients": {
+        "Active clients:": "Aktive clients:"
+    },
+    "within50Days": {
+        "within 50 days:": "letzte 50 Tage:"
+    },
+    "within7Days": {
+        "within 7 days:": "letzte 7 Tage:"
+    },
+    "last_payments": {
+        "Last 19 payments": "Letzte 19 Zahlungen"
+    },
+    "payment_history": {
+        "Payment History": "Zahlungshistorie"
+    }
+}

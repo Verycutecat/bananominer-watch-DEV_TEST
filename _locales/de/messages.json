@@ -46,5 +46,35 @@
     },
     "errNotfound": {
         "message": "User ID existiert nicht. Versuche es erneut."
+    }.
+	"StoreLongDesc": {
+        "message": "BananoMiner Watch ist eine Erweiterung für deinen Browser, die dir alle Statistiken zu Deinem mit Hilfe deiner Konfiguration von https://bananominer.com/ geleisteten Beitrag zum Foldign@Home Team www.banano.cc Team anzeigt. Du kannst sogar die Summe deiner bereits  verdienten BANanos sehen.\n\nDies ist ein BANANO community Projekt. Gemacht von Banano Dschungelaffen für Banano Dschungelaffen.\n\nWenn Du mehr über die BANANO Kryptowährung erfahren möchtest, surfe zu www.banano.cc.\n\nDanksagungen\nUnser aufrichtiger Dank gilt all den Affen im Banano-Dschungel, die zu diesem Projekt beigetragen oder unterstützt haben. BAN fam - best fam! 💛\n\nÜbersetzungen und Korrekturlesen:\nAhmedDhaif93 für Arabisch\nGoose für Chinesisch\nATH für Niederländisch\nLiberty_Seed und iazid für Französisch\nPramono für Bahasa Indonesia\nLore und macaleon für Italienisch\nAfrica by Toto für Japanisch\nmina_hanem für Farsi\nnknown für Portugiesisch\npygo für Norwegisch\nMidNightSonne für Brasilianisches Portugiesisch\nYaroslavaWise für Russisch\nCristalla für Spanisch\nbbedward dafür, dass er den Dschungel um Mithilfe gebeten hat\n\nGrafik Design Unterstützung\nOops\n\nSchlagworte:\nfolding foldingathome folding@home crypto cryptocurrency banano krypto kryptowährung\n"
+    },
+    "hamb_calc": {
+        "message": "PPD-BAN Rechner"
+    },
+    "acc_status": {
+        "message: active": "Account Status: aktiv"
+    },
+    "cert_points": {
+        "message": "Zertifikat (Punkte)"
+    },
+    "cert_wus": {
+        "message": "Zertifikat (WUs)"
+    },
+    "activeClients": {
+        "message": "Aktive clients:"
+    },
+    "within50Days": {
+        "message": "letzte 50 Tage:"
+    },
+    "within7Days": {
+        "message": "letzte 7 Tage:"
+    },
+    "last_payments": {
+        "message": "Letzte 19 Zahlungen"
+    },
+    "payment_history": {
+        "message": "Zahlungshistorie"
     }
 }
