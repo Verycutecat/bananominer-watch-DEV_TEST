@@ -1,4 +1,4 @@
-# Introduction to BananoMiner Watch V1.3.6 Affenbande
+# Introduction to BananoMiner Watch V1.3.7 Orange Malay Monkeys
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/pdnkikfbjfhikkpopfoaihhfbhaplpfc?label=chrome%20web%20store-users&style=plastic)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/pdnkikfbjfhikkpopfoaihhfbhaplpfc?label=chrome%20web%20store-rating&style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/sebrock/bananominer-watch-DEV_TEST?style=plastic)
@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/discord-join%20chat-orange.svg)](https://chat.banano.cc/)
 
 
-![](./assets/BananoMiner-Watch_result_1.3.6.png)
+![](./assets/BananoMiner-Watch_result_1.3.7.png)
 
 (pictured: German version)
 
@@ -17,17 +17,18 @@ If you want to learn more about how the Banano community is providing a valuable
 
 # :scroll: Changelog
 
-This version fixes the error where users were told their User ID didn't existed.
-Further improvements:
--Fixed horizontal scrolling
--Linking "Your Mining Stats" im hamburger menu to https://www.monkey2monkey.com/fh-stats/
+- Revamped color scheme to match bananominer.com style
+- Added Malay translation (my)
+- Added Tagaloc translation (fil)
 - You can find the comprehensive Changelog [here](./changelog.md)
 
 # How to install?
 
-![](./assets/BananoMiner-Watch_store_1.3.4.png)
+![](./assets/BananoMiner-Watch_store_1.3.6.png)
 
-Version V1.3.5 övermogen Axl Rose has been published in the [Google Chrome  Webstore](https://chrome.google.com/webstore/detail/pdnkikfbjfhikkpopfoaihhfbhaplpfc?authuser=0&hl=en), is available for download in all regions, and in 20 different languages covering 22 locales (locale identifiers in brackets):
+
+Version V1.3.7 Orange Malay Monkeys has been published in the [Google Chrome  Webstore](https://chrome.google.com/webstore/detail/pdnkikfbjfhikkpopfoaihhfbhaplpfc?authuser=0&hl=en), is available for download in all regions, and in 23 different languages covering 25 locales (locale identifiers in brackets):
+
   -  Arabic (ar)
   -  Danish (da)
   -  German (de)
@@ -36,11 +37,13 @@ Version V1.3.5 övermogen Axl Rose has been published in the [Google Chrome  Web
   -  Spanish (es)
   -  Latin Amrican Spanish (es_419)
   -  Persian (fa)
+  -  Tagalog (fil)
   -  French (fr)
   -  Hindi (hi)
   -  Bahasa Indonesia (id)
   -  Italian (it)
   -  Japanese (ja)
+  -  Tagalog (fil)
   -  Dutch (nl)
   -  Norwegian (no)
   -  Brazilian Portuguese (pt_BR)
@@ -56,7 +59,9 @@ Version V1.3.5 övermogen Axl Rose has been published in the [Google Chrome  Web
 The [Folding@home](https://foldingathome.org/) project issues certificates to contributing folders based on how much work was provided.
 There is a certificate for completed Work Units(WU) and for Points(score).
 You can get your own by choosing the certificate you want from the hamburger menu:
+
 ![](./assets/BananoMiner-Watch_hamburger_1.3.4.png)
+
 The numbers are rounded and a WU certificate looks like this:
 
 ![](./assets/FoldingAtHome-wus-certificate-83904266.jpg)
@@ -84,7 +89,7 @@ You will now see all the stats about your contributions and your earnings.
 Bonus feature: move your mouse over your BAN address and you will see the MonKey for your address!
 To update your stats just click update.
 
-![](./assets/BananoMiner-Watch_result_1.3.5.png)
+![](./assets/BananoMiner-Watch_result_1.3.7.png)
 
 (pictured: German version)
 
