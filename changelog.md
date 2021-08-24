@@ -1,5 +1,10 @@
 # Bananominer-Watch Changelog
 
+## V1.3.7 Orange Malay Monkeys
+-Revamped color scheme to match bananominer.com style
+-Added Malay translation (my)
+-Added Tagaloc translation (fil)
+
 ## V1.3.6 Affenbande
 This version fixes the error where users were told their User ID didn't existed.
 Further improvements:

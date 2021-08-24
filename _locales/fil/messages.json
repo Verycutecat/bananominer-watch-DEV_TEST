@@ -55,6 +55,36 @@
     },
     "errNotfound": {
       "message": "Ang User ID ay hindi nakita. Ulitin."
+    },
+	"StoreLongDesc": {
+        "message": "Ang BananoMiner Watch ay isang extensyon na ipinapakita ang lahat ng iyong kontribusyon sa koponan ng www.banano.cc at Folding@home, kasama dito ang kabuuang $BAN na iyong kinita mula sa https://bananominer.com/.\nIto ay isang proyekto ng BANANO community. Ginawa ng mga Banano Jungle Monkeys para sa Banano Jungle Monkeys.\n\nKung nais mo pang malaman ang tungkol sa BANANO cryptocurrency, bumisita lang sa www.banano.cc\n\nMga kredito:\nLubos na pasasalamat sa lahat ng kabilang sa BANANO community para sa mga kontribusyon at suporta upang ito ay magawa. BAN fam - best fam! 💛\n\nPagsasalin at Pagpapatunay:\nAhmedDhaif93 para sa Arabic\nGoose at thatmathguy para sa Chinese\nKryptopia para sa Danish\nATH para sa Dutch\nLiberty_Seed at iazid para sa French\nsebrock para sa German\nDemetrius para sa Greek\nSkittish para sa Hindi\nPramono para sa Bahasa Indonesia\nLore at macaleon para sa Italian\nAfrica at Toto para sa Japanese\nmina_hanem para sa Farsi\nnknown para sa Portuguese\npygo para sa Norwegian\nMidNightSonne at andrecrjr para sa Brazilian Portuguese\nYaroslavaWise at Nomina para sa Russian\nKyle London 92 para sa Serbian\nCristalla para sa Spanish\nmanpan  para sa Swedish\nTahadorukk | Guns'NRoses para sa Turkish\nTu Hoang para sa Vietnamese\nheanzyzabala para sa Tagalog\nbbedward para sa pagpapaalala sa jungle na sumuporta\n\nDisenyo:\nOops\n\nKeywords:\nfolding foldingathome folding@home crypto cryptocurrency banano"
+    },
+    "hamb_calc": {
+        "message": "PPD-BAN Calculator"
+    },
+    "acc_status": {
+        "message": "Katayuan ng Account: Aktibo"
+    },
+    "cert_points": {
+        "message": "Certificate (Points)"
+    },
+    "cert_wus": {
+        "message": "Certificate (WUs)"
+    },
+    "activeClients": {
+        "message": "Akbitong clients:"
+    },
+    "within50Days": {
+        "message": "sa loob ng 50 araw:"
+    },
+    "within7Days": {
+        "message": "sa loob ng 7 araw:"
+    },
+    "last_payments": {
+        "message": "Huling 19 na bayad"
+    },
+    "payment_history": {
+        "message": "Kasaysayan ng pagbabayad"
     }
   }
   
