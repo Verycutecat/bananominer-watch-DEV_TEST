@@ -59,17 +59,17 @@
     "StoreLongDesc": {
         "message": "BananoMiner Watch is an extension that shows you all the stats about your contributions to the www.banano.cc team at Folding@home including the amount of $BAN you have already earned using your config from https://bananominer.com/.\nThis is a BANANO community project. Made by Banano Jungle Monkeys for Banano Jungle Monkeys.\n\nIf you would like to know more about the BANANO cryptocurrency, please visit www.banano.cc\n\nCredits\nOur sincere thanks go to everyone in the BANANO community who contributed and supported in the making of this. BAN fam - best fam! 💛\n\nTranslation and Proofreading:\nAhmedDhaif93 for Arabic\nGoose for Chinese\nKryptopia for Danish\nATH for Dutch\nKyle London 92 for Finnish\nLiberty_Seed and iazid for French\nsebrock for German\nDemetrius for Greek\nSkittish for Hindi\nKyle London 92 for Hungarian\nKyle London 92 for Icelandic\nPramono for Bahasa Indonesia\nLore and macaleon for Italian\nAfrica by Toto for Japanese\nmina_hanem for Farsi\nnknown for Portuguese\npygo for Norwegian\nMidNightSonne and andrecrjr for Brazilian Portuguese\nYaroslavaWise and Nomina for Russian\nKyle London 92 for Serbian\nCristalla for Spanish\nKyle London 92 for Swedish\nTahadorukk | Guns'NRoses for Turkish\nTu Hoang for Vietnamese\nbbedward for reminding the jungle to support\n\nGraphic Design support\nOops\n\nKeywords:\nfolding foldingathome folding@home crypto cryptocurrency banano"
     },
-    "message": {
-        "PPD-BAN Calculator": "PPD-BAN Calculator"
+    "hamb_calc": {
+        "message": "PPD-BAN Calculator"
     },
-    "message": {
-        "Account Status: active": "Account Status: active"
+    "acc_status": {
+        "message": "Account Status: active"
     },
-    "message": {
-        "Certificate (Points)": "Certificate (Points)"
+    "cert_points": {
+        "message": "Certificate (Points)"
     },
-    "message": {
-        "Certificate (WUs)": "Certificate (WUs)"
+    "cert_wus": {
+        "message": "Certificate (WUs)"
     },
     "activeClients": {
         "message": "Active clients:"
