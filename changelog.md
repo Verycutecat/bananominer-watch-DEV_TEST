@@ -1,15 +1,15 @@
 # Bananominer-Watch Changelog
 
 ## V1.3.7 Orange Malay Monkeys
--Revamped color scheme to match bananominer.com style
--Added Malay translation (my)
--Added Tagaloc translation (fil)
+- Revamped color scheme to match bananominer.com style
+- Added Malay translation (my)
+- Added Tagaloc translation (fil)
 
 ## V1.3.6 Affenbande
 This version fixes the error where users were told their User ID didn't existed.
 Further improvements:
--Fixed horizontal scrolling
--Linking "Your Mining Stats" im hamburger menu to https://www.monkey2monkey.com/fh-stats/
+- Fixed horizontal scrolling
+- Linking "Your Mining Stats" im hamburger menu to https://www.monkey2monkey.com/fh-stats/
 
 ## V1.3.5 övermogen Axl Rose
 This version still has the workaround adressing an issue where users saw their account incorrectly marked as inactive.
