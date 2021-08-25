@@ -46,5 +46,35 @@
     },
     "errNotfound": {
         "message": "El ID de usuario no existe. Inténtalo de nuevo."
+    },
+    "StoreLongDesc": {
+        "message": "BananoMiner Watch es una extensión que muestra todas las estadísticas sobre sus contribuciones al equipo de www.banano.cc en Folding@home, incluida la cantidad de $BAN que ya ha ganado usando su configuración de https://bananominer.com/.\nEste es un proyecto comunitario de BANANO. Hecho por Monos de la Jungla de Banano para Monos de la Jungla de Banano.\n\nSi desea obtener más información sobre la criptomoneda BANANO, visite www.banano.cc\n\nCréditos\nNuestro sincero agradecimiento a todos en la comunidad BANANO que contribuyeron y apoyaron en la realización de esto. La familia BAN - La mejor familia! 💛\n\nTraducción y corrección de pruebas:\nAhmedDhaif93 para Árabe\nGoose para Chino\nATH para Holandés\nLiberty_Seed e iazid para Francés\nPramono para Bahasa Indonesia\nLore y macaleon para Italiano\nAfrica by Toto para Japonés\nmina_hanem para Farsi\nnknown para Portugués\nMidNightSonne para Portugués Brasileño\nYaroslavaWise e Nomina para Ruso\nCristalla para Español\npygo para Noruego\nTahadorukk | Guns'NRoses para Turco\nTu Hoang para vietnamita\nBbedward por recordar a la jungla que apoye\n\nSoporte en Diseño gráfico\nOops\n\nPalabras clave:\nfolding foldingathome folding@home crypto cryptocurrency banano\n"
+    },
+    "hamb_calc": {
+        "message": "Calculadora PPD-BAN"
+    },
+    "acc_status": {
+        "message": "Estado de la cuenta: activa"
+    },
+    "cert_points": {
+        "message": "Certificado (puntos)"
+    },
+    "cert_wus": {
+        "message": "Certificado (WUs)"
+    },
+    "activeClients": {
+        "message": "Clientes activos:"
+    },
+    "within50Days": {
+        "message": "dentro de 50 días:"
+    },
+    "within7Days": {
+        "message": "dentro de 7 días:"
+    },
+    "last_payments": {
+        "message": "Últimos 19 pagos"
+    },
+    "payment_history": {
+        "message": "Historia de pagos"
     }
 }
