@@ -61,5 +61,20 @@
     },
     "cert_wus": {
         "message": "Certifikat (WUs)"
+    },
+    "activeClients": {
+        "message": "Active clients:"
+    },
+    "within50Days": {
+        "message": "within 50 days:"
+    },
+    "within7Days": {
+        "message": "within 7 days:"
+    },
+    "last_payments": {
+        "message": "Last 19 payments"
+    },
+    "payment_history": {
+        "message": "Payment History"
     }
 }

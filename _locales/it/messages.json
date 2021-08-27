@@ -46,5 +46,32 @@
   },
   "errNotfound": {
     "message": "La User ID non esiste. Per favore prova di nuovo."
-  }
+ },
+    "hamb_calc": {
+        "message": "PPD-BAN Calculator"
+    },
+    "acc_status": {
+        "message": "Account Status: active"
+    },
+    "cert_points": {
+        "message": "Certificate (Points)"
+    },
+    "cert_wus": {
+        "message": "Certificate (WUs)"
+    },
+    "activeClients": {
+        "message": "Active clients:"
+    },
+    "within50Days": {
+        "message": "within 50 days:"
+    },
+    "within7Days": {
+        "message": "within 7 days:"
+    },
+    "last_payments": {
+        "message": "Last 19 payments"
+    },
+    "payment_history": {
+        "message": "Payment History"
+    }
 }

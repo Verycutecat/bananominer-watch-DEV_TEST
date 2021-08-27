@@ -49,5 +49,32 @@
     },
     "StoreLongDesc": {
         "message": "Το BananoMiner Watch είναι μια επέκταση που σας δείχνει όλα τα στατιστικά στοιχεία σχετικά με τις συνεισφορές σας στην ομάδα www.banano.cc στο Folding @ home, συμπεριλαμβανομένου του ποσού των $ BAN που έχετε ήδη κερδίσει χρησιμοποιώντας τη διεύθυνση https://bananominer.com/. Αυτό είναι ένα έργο της κοινότητας του BANANO. Κατασκευάστηκε από Banano Jungle Monkeys για Banano Jungle Monkeys. Εάν θέλετε να μάθετε περισσότερα σχετικά με το BANANO, επισκεφθείτε τη διεύθυνση www.banano.cc  Οι ειλικρινείς ευχαριστίες μας απευθύνονται σε όλους στην κοινότητα BANANO που συνέβαλαν και υποστήριξαν στη δημιουργία αυτού του πρότζεκτ. οικογένεια του Banano - Η καλύτερη οικογένεια! 💛\n\nTranslation and Proofreading:\nAhmedDhaif93 for Arabic\nGoose for Chinese\nKryptopia for Danish\nATH for Dutch\nLiberty_Seed and iazid for French\nsebrock for German\nSkittish for Hindi\nPramono for Bahasa Indonesia\nLore and macaleon for Italian\nAfrica by Toto for Japanese\nmina_hanem for Farsi\nnknown for Portuguese\npygo for Norwegian\nMidNightSonne and andrecrjr or Brazilian Portuguese\nYaroslavaWise and Nomina for Russian\nCristalla for Spanish\nTahadorukk | Guns'NRoses\nTu Hoang for Vietnamese\nbbedward for reminding the jungle to support\n\nGraphic Design support\nOops\n\nKeywords:\nfolding foldingathome folding@home crypto cryptocurrency banano"
+    },
+    "hamb_calc": {
+        "message": "PPD-BAN Calculator"
+    },
+    "acc_status": {
+        "message": "Account Status: active"
+    },
+    "cert_points": {
+        "message": "Certificate (Points)"
+    },
+    "cert_wus": {
+        "message": "Certificate (WUs)"
+    },
+    "activeClients": {
+        "message": "Active clients:"
+    },
+    "within50Days": {
+        "message": "within 50 days:"
+    },
+    "within7Days": {
+        "message": "within 7 days:"
+    },
+    "last_payments": {
+        "message": "Last 19 payments"
+    },
+    "payment_history": {
+        "message": "Payment History"
     }
 }

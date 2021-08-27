@@ -49,5 +49,32 @@
     },
     "StoreLongDesc": {
         "message": "BananoMiner Watch er en utvidelse som viser deg all statistikk over dine bidrag til www.banano.cc-teamet på Folding@home, samt antall $BAN du allerede har tjent ved å bruke konfigurasjonen din fra https://bananominer.com/.\nDette er et BANANO community prosjekt. Laget av Banano Jungle Monkeys for Banano Jungle Monkeys.\n\nVennligst besøk www.banano.cc dersom du ønsker å vite mer om kryptovalutaen BANANO.\n\nBidragsytere\nTusen takk til alle i BANANO-samfunnet som er med og bidrar og støtter dette prosjektet. BAN fam - best fam! 💛\n\nOversettelse og korrekturlesing:\nAhmedDhaif93 for arabisk\nGoose for kinesisk\nATH for nederlandsk\nLiberty_Seed og iazid for fransk\nPramono for indonesisk\nLore og macaleon for italiensk\nAfrica by Toto for japansk\nmina_hanem for farsi\nnknown for portugisisk\nMidNightSonne for brasiliansk portugisisk\nYaroslavaWise for russisk\nCristalla for spansk\npygo for norsk\nTahadorukk | Guns'NRoses for tyrkisk\nSkittish for hindi\nbbedward for å få med seg jungelen til å bidra\n\nGrafisk design-støtte\nOops\n\nNøkkelord:\nfolding foldingathome folding@home crypto cryptocurrency banano kryptovaluta krypto"
+    },
+    "hamb_calc": {
+        "message": "PPD-BAN Calculator"
+    },
+    "acc_status": {
+        "message": "Account Status: active"
+    },
+    "cert_points": {
+        "message": "Certificate (Points)"
+    },
+    "cert_wus": {
+        "message": "Certificate (WUs)"
+    },
+    "activeClients": {
+        "message": "Active clients:"
+    },
+    "within50Days": {
+        "message": "within 50 days:"
+    },
+    "within7Days": {
+        "message": "within 7 days:"
+    },
+    "last_payments": {
+        "message": "Last 19 payments"
+    },
+    "payment_history": {
+        "message": "Payment History"
     }
 }
