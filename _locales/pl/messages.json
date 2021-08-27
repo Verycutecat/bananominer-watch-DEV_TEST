@@ -1,0 +1,80 @@
+{
+    "extDescription": {
+        "message": "Wyświetla cały twój wkład do Folding@Home i zarobki dla www.banano.cc."
+    },
+    "findMe": {
+        "message": "Znajdź mnie!"
+    },
+    "yourUser": {
+        "message": "Twoje ID:"
+    },
+    "errEmpty": {
+        "message": "Proszę wprowadź ID użytkownika."
+    },
+    "errShort": {
+        "message": "ID użytkownika musi mieć 7 znaków. Proszę spróbuj ponownie."
+    },
+    "update": {
+        "message": "Aktualizacja!"
+    },
+    "lastUpdate": {
+        "message:": "Ostatnia aktualizacja:"
+    },
+    "banAdr": {
+        "message": "Adres BAN:"
+    },
+    "AccCreated": {
+        "message": "Konto utworzone dnia:"
+    },
+    "banEarned": {
+        "message": "BAN zarobione w sumie:"
+    },
+    "lastWU": {
+        "message": "Ostatni wykopany Work Unit:"
+    },
+    "totalWU": {
+        "message": "Wszystkie Work Units:"
+    },
+    "lang": {
+        "message": "Angielski"
+    },
+    "extName": {
+        "message": "BananoMiner Watch"
+    },
+    "langCode": {
+        "message": "en"
+    },
+    "errNotfound": {
+        "message": "ID nie istnieje, proszę spróbuj ponownie."
+    },
+    "StoreLongDesc": {
+        "message": "BananoMiner Watch jest rozszerzeniem, które pokazuje ci wszystkie twoje statystyki o twoim wkładzie do drużyny www.banano.cc w Folding@Home\n"
+    },
+    "hamb_calc": {
+        "message": "Kalkulator PPD-BAN"
+    },
+    "acc_status": {
+        "message": "Status konta: aktywne"
+    },
+    "cert_points": {
+        "message": "Certyfikat (punkty)"
+    },
+    "cert_wus": {
+        "message": "Certyfikat (WUs)"
+    },
+    "activeClients": {
+        "message": "Aktywni klienci:"
+    },
+    "within50Days": {
+        "message": "przez 50 dni:"
+    },
+    "within7Days": {
+        "message": "przez 7 dni:"
+    },
+    "last_payments": {
+        "message": "Ostatnie 19 płatności"
+    },
+    "payment_history": {
+        "message": "Historia Płatności"
+    }
+}
