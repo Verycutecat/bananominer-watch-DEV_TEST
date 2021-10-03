@@ -1,5 +1,9 @@
 # Bananominer-Watch Changelog
 
+## V1.3.8 маймунски Polski
+- Added Polish locale provided by imalfect
+- Added Bulgarian local provided by nzaykov
+
 ## V1.3.7 Orange Malay Monkeys
 - Revamped color scheme to match bananominer.com style
 - Added Malay translation (my)
