@@ -74,7 +74,7 @@
     "last_payments": {
         "message": "Последните 19 плащания"
     },
-    "message": {
-        "Payment History": "История на плащанията"
+    "Payment History": {
+        "message": "История на плащанията"
     }
 }
