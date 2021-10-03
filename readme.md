@@ -1,4 +1,4 @@
-# Introduction to BananoMiner Watch V1.3.7 Orange Malay Monkeys
+# Introduction to BananoMiner Watch V1.3.8 маймунски Polski
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/pdnkikfbjfhikkpopfoaihhfbhaplpfc?label=chrome%20web%20store-users&style=plastic)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/pdnkikfbjfhikkpopfoaihhfbhaplpfc?label=chrome%20web%20store-rating&style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/sebrock/bananominer-watch-DEV_TEST?style=plastic)
@@ -27,9 +27,10 @@ If you want to learn more about how the Banano community is providing a valuable
 ![](./assets/BananoMiner-Watch_store_1.3.6.png)
 
 
-Version V1.3.7 Orange Malay Monkeys has been published in the [Google Chrome  Webstore](https://chrome.google.com/webstore/detail/pdnkikfbjfhikkpopfoaihhfbhaplpfc?authuser=0&hl=en), is available for download in all regions, and in 23 different languages covering 25 locales (locale identifiers in brackets):
+Version V1.3.8 маймунски Polski has been published in the [Google Chrome  Webstore](https://chrome.google.com/webstore/detail/pdnkikfbjfhikkpopfoaihhfbhaplpfc?authuser=0&hl=en), is available for download in all regions, and in 23 different languages covering 25 locales (locale identifiers in brackets):
 
   -  Arabic (ar)
+  -  Bulgarian
   -  Danish (da)
   -  German (de)
   -  Greek (el)
@@ -47,6 +48,7 @@ Version V1.3.7 Orange Malay Monkeys has been published in the [Google Chrome  We
   -  Dutch (nl)
   -  Norwegian (no)
   -  Brazilian Portuguese (pt_BR)
+  -  Polish
   -  Portuguese (pt_PT)
   -  Russian (ru)
   -  Serbian (sr)
@@ -99,6 +101,7 @@ Our sincere thanks go to everyone in the BANANO community who contributed and su
 # Translation and Proofreading
 
 - :point_right: AhmedDhaif93 for Arabic
+- :point_right: nzaykov for Bulgarian
 - :point_right: Kryptopia for Danish
 - :point_right: sebrock for German
 - :point_right: Demetrius for Greek
@@ -111,6 +114,7 @@ Our sincere thanks go to everyone in the BANANO community who contributed and su
 - :point_right: Africa by Toto for Japanese
 - :point_right: ATH for Dutch
 - :point_right: pygo for Norwegian
+- :point_right: @imalfect for Polish
 - :point_right: MidNightSonne and andrecrjr for Brazilian Portuguese
 - :point_right: nknown for Portuguese
 - :point_right: YaroslavaWise and Nomina for Russian
