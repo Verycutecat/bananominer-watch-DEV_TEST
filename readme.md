@@ -1,4 +1,4 @@
-# Introduction to BananoMiner Watch V1.3.8 маймунски Polski
+# Introduction to BananoMiner Watch V1.3.8a маймунски Polski
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/pdnkikfbjfhikkpopfoaihhfbhaplpfc?label=chrome%20web%20store-users&style=plastic)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/pdnkikfbjfhikkpopfoaihhfbhaplpfc?label=chrome%20web%20store-rating&style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/sebrock/bananominer-watch-DEV_TEST?style=plastic)
@@ -17,9 +17,8 @@ If you want to learn more about how the Banano community is providing a valuable
 
 # :scroll: Changelog
 
-- Revamped color scheme to match bananominer.com style
-- Added Malay translation (my)
-- Added Tagaloc translation (fil)
+- Added Polish translation (pl)
+- Added Bulgarian translation (bg)
 - You can find the comprehensive Changelog [here](./changelog.md)
 
 # How to install?
@@ -27,10 +26,10 @@ If you want to learn more about how the Banano community is providing a valuable
 ![](./assets/BananoMiner-Watch_store_1.3.6.png)
 
 
-Version V1.3.8 маймунски Polski has been published in the [Google Chrome  Webstore](https://chrome.google.com/webstore/detail/pdnkikfbjfhikkpopfoaihhfbhaplpfc?authuser=0&hl=en), is available for download in all regions, and in 23 different languages covering 25 locales (locale identifiers in brackets):
+Version V1.3.8a маймунски Polski has been published in the [Google Chrome  Webstore](https://chrome.google.com/webstore/detail/pdnkikfbjfhikkpopfoaihhfbhaplpfc?authuser=0&hl=en), is available for download in all regions, and in 25 different languages covering 27 locales (locale identifiers in brackets):
 
   -  Arabic (ar)
-  -  Bulgarian
+  -  Bulgarian (bg)
   -  Danish (da)
   -  German (de)
   -  Greek (el)
@@ -48,7 +47,7 @@ Version V1.3.8 маймунски Polski has been published in the [Google Chrom
   -  Dutch (nl)
   -  Norwegian (no)
   -  Brazilian Portuguese (pt_BR)
-  -  Polish
+  -  Polish (pl)
   -  Portuguese (pt_PT)
   -  Russian (ru)
   -  Serbian (sr)
