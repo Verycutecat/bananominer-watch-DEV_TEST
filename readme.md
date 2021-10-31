@@ -133,6 +133,7 @@ Our sincere thanks go to everyone in the BANANO community who contributed and su
 # :star2: May 2021 Fix provided by :star2:
  - [xtj7](https://github.com/xtj7)
 
+# 📫 Contact
 *That's it guys. If you need to talk to us you can find us on Twitter:
 - [André´s twitter](https://twitter.com/andrecrjr)
 - [sebrock´s twitter](https://twitter.com/sebrock)
