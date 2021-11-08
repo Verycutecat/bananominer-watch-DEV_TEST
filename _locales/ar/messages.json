@@ -63,7 +63,7 @@
         "message": "العملاء النشيطون"
     },
     "within50Days": {
-        "wmessage": "خلال أقل من 50 يوما"
+        "message": "خلال أقل من 50 يوما"
     },
     "within7Days": {
         "message": "خلال أقل من 7 أيام"
