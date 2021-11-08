@@ -6,37 +6,37 @@
         "message": "قم بإيجادي!"
     },
     "yourUser": {
-        "message": "ادخل اسم المعرف"
+        "message": "أدخل اسم المعرف"
     },
     "errEmpty": {
         "message": "يرجى إدخال معرف المستخدم"
     },
     "errShort": {
-        "message": "يجب أن يكون معرف المستخدم 7 أحرف. حاول مرة اخرى."
+        "message": "يجب أن يكون معرف المستخدم مكونا من 7 أحرف. حاول مرة اخرى."
     },
     "update": {
         "message": "تحديث!"
     },
     "lastUpdate": {
-        "message": "اخر تحديث:"
+        "message": "أخر تحديث:"
     },
     "banAdr": {
-        "message": "عنوان بنانو:"
+        "message": "عنوان محفظة BAN"
     },
     "AccCreated": {
         "message": "تم إنشاء الحساب في:"
     },
     "banEarned": {
-        "message": "إجمالي BAN المكتسبة:"
+        "message": "إجمالي BAN$ المكتسبة:"
     },
     "lastWU": {
-        "message": "آخر وحدة عمل معدنة:"
+        "message": "أخر وحدة عمل معدنة:"
     },
     "totalWU": {
         "message": "إجمالي وحدات العمل:"
     },
     "lang": {
-        "message": "العربية"
+        "English": "الإنجليزية"
     },
     "extName": {
         "message": "BananoMiner Watch"
@@ -48,30 +48,30 @@
         "message": "معرف المستخدم غير موجود. حاول مرة اخرى."
     },
     "hamb_calc": {
-        "message": "PPD-BAN Calculator"
+        "message": "حساب PPD-BAN"
     },
     "acc_status": {
-        "message": "Account Status: active"
+        "message": "حالة الحساب: مفعل"
     },
     "cert_points": {
-        "message": "Certificate (Points)"
+        "message": "النقاط"
     },
     "cert_wus": {
-        "message": "Certificate (WUs)"
+        "message": "شهادة (WUs)"
     },
     "activeClients": {
-        "message": "Active clients:"
+        "message": "العملاء النشيطون"
     },
     "within50Days": {
-        "message": "within 50 days:"
+        "wmessage": "خلال أقل من 50 يوما"
     },
     "within7Days": {
-        "message": "within 7 days:"
+        "message": "خلال أقل من 7 أيام"
     },
     "last_payments": {
-        "message": "Last 19 payments"
+        "message": "أخر 19 عملية دفع\n"
     },
     "payment_history": {
-        "message": "Payment History"
+        "message": "تاريخ جميع عمليات الدفع"
     }
 }
