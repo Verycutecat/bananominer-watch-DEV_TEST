@@ -14,13 +14,13 @@ export const renderTop = () => {
     <nav class="banano--main-menu">
       <ul class="banano__menu--links">
       <li>
-      <a href="https://www.monkey2monkey.com/fh-stats/" class="banano__top" title="Go to https://www.monkey2monkey.com/fh-stats/" target="_blank" style="padding-top:3px;">
+      <a href="https://nanners.cc/?userid=" class="banano__top" title="Go to nanners.cc" target="_blank" style="padding-top:3px;">
         Your Mining Stats   
       </a>
       </li>
 	  <li>
-      <a href="https://turtlebyte.github.io/bananocalculator/" class="banano__top" title="Go to https://turtlebyte.github.io/bananocalculator/" target="_blank" style="padding-top:3px;">
-        PPD-BAN Calculator   
+      <a href="https://malkaroy-vrrp.github.io/bananocalculator/" class="banano__top" title="Go to F@H Points-to-Banano Calculator" target="_blank" style="padding-top:3px;">
+        PPD-BAN Estimator   
       </a>
       </li>
       <li class="banano__menu--certificates"></li>
